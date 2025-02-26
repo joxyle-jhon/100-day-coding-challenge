@@ -167,4 +167,4 @@ Here are some resources I found helpful during the challenge:
 ## How to Use This Repo 🛠️
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/100-days-of-code.git
+   git clone https://github.com/joxyle-jhon/100-day-coding-challenge.git
